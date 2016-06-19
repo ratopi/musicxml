@@ -3,16 +3,16 @@
 <!--
 	MusicXML™ parttime.xsl stylesheet
 
-	Version 2.0 - 18 June 2007
+	Version 3.0
 	
-	Copyright © 2004-2007 Recordare LLC.
-	http://www.recordare.com/
+	Copyright © 2004-2011 MakeMusic, Inc.
+	http://www.makemusic.com/
 	
 	This MusicXML™ work is being provided by the copyright
-	holder under the MusicXML Document Type Definition 
-	Public License Version 2.0, available from:
+	holder under the MusicXML Public License Version 3.0,
+	available from:
 	
-		http://www.recordare.com/dtds/license.html
+		http://www.musicxml.org/dtds/license.html
 -->
 
 <!-- 
@@ -36,7 +36,7 @@
   <xsl:output method="xml" indent="yes" encoding="UTF-8"
 	omit-xml-declaration="no" standalone="no"
 	doctype-system="http://www.musicxml.org/dtds/timewise.dtd"
-	doctype-public="-//Recordare//DTD MusicXML 2.0 Timewise//EN" />
+	doctype-public="-//Recordare//DTD MusicXML 3.0 Timewise//EN" />
 
   <!--
     For the root, only look for score-partwise and
